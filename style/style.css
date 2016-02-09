@@ -1,0 +1,11 @@
+a, a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
+
+}
+
+a.more, a:link.more, a:visited.more, a:hover.more, a:active.more {
+    text-decoration: none;
+    color: #428bca;
+
+}
