@@ -8,6 +8,8 @@ $(function () {
     * dodając parametr. Tj. na początku wyświetl wszystkie, a później po dodaniu kolejnej ksiazki wyświetlam
     * tylko jedna ksiazke
     *
+    * Niestety nie udało mi się znaleźć jak to zrobić, więc pierwsze załadowanie jest po kliknięciu
+    *
     * kod zawiera dużo console.log - na bieżąco obserwuję kod
     *
     * */
